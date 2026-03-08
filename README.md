@@ -1,6 +1,5 @@
 ## This is a minimal waybar for omarchy.
 ![Uploading image.png…]()
-![Uploading 537238157-faecaa18-018e-45af-bf63-14bd5bac8218.png…]()
 
 ### To Downlowd it:
 ```
